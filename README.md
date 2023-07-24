@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ntfnd404&color=blueviolet)
+
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -11,5 +13,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntfnd404&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntfnd404&layout=compact)
-
-![](https://komarev.com/ghpvc/?username=ntfnd404&color=blueviolet)
