@@ -13,7 +13,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntfnd404&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntfnd404&layout=compact)
-
-<div align="center">
-  <img src="https://media.tenor.com/vrNljoCTO70AAAAd/blade-runner-flying-cars.gif" width="600" height="300"/>
-</div>
