@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=ntfnd404&color=blueviolet)
+### Hi i'm flutter software developer 👋
+
 
 <!--
 <p align="left"> 
@@ -22,3 +23,5 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
+
+![](https://komarev.com/ghpvc/?username=ntfnd404&color=blueviolet)
