@@ -1,4 +1,4 @@
-### Hi i'm flutter software developer 👋
+### Hi i'm flutter developer 👋
 
 
 <!--
