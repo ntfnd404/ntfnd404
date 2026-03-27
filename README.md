@@ -11,7 +11,7 @@ I also leverage **AI / LLM tools (Claude Code)** for **code generation, automati
 ---
 
 #### Tech Stack
-Blockchain / Cryptocurrencies • Mobile Security (OWASP) • Cryptography • HD Wallets / Key Management • Native Plugins • AI / LLM
+Blockchain / Cryptocurrencies • Mobile Security (OWASP) • Cryptography • HD Wallets / Key Management • Native Plugins • AI
 
 ---
 
