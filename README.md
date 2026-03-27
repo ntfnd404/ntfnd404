@@ -1,8 +1,12 @@
-### 🔐 Flutter Engineer | Crypto & Security | AI
+### 🔐 Flutter Software Engineer | Crypto & Security | AI
 
-👋 Hi! I'm a Senior Engineer with 5+ years in mobile development and 10+ years in IT.  
-I build **secure, scalable, and user-friendly mobile applications** with a focus on **blockchain & crypto**, **mobile security**, and **cross-platform native integrations**.  
-I also leverage **AI/LLM tools (Claude Code)** for code generation, automation, and productivity.
+Hi! I'm a Senior Engineer with **5+ years in mobile development** and **10+ years in IT**.  
+I build **secure, scalable, and user-friendly mobile applications** with a focus on:  
+- **Blockchain & Cryptocurrencies**  
+- **Mobile Security**  
+- **Cross-platform Native Integrations**  
+
+I also leverage **AI / LLM tools (Claude Code)** for **code generation, automation, and productivity**.
 
 ---
 
