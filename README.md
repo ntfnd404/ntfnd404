@@ -1,6 +1,7 @@
 ### 🔐 Flutter Engineer | Crypto & Security | AI
 
-👋 Hi! I'm a Senior Engineer with 5+ years in mobile development and 10+ years in IT.  
+👋 Hi! I'm a Senior Engineer with 5+ years in mobile development and 10+ years in IT.
+
 I specialize in **Flutter & Dart**, secure crypto applications, HD wallets, and cross-platform native integration.  
 I also leverage **AI/LLM tools (Claude Code)** for code generation, automation, and improving developer productivity.
 
