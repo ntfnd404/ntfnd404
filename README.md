@@ -1,6 +1,6 @@
 ### 🔐 Flutter Software Engineer | Crypto & Security | AI
 
-👋 Hi! I'm a Senior Engineer with **5+ years in mobile development** and **10+ years in IT**.  
+👋 Hi! I'm a Senior Engineer with **5+ years in mobile development** and **15+ years in IT**.  
 I build **secure, scalable, and user-friendly mobile applications** with a focus on:  
 - **Blockchain & Cryptocurrencies**  
 - **Mobile Security**  
@@ -30,7 +30,7 @@ Blockchain / Cryptocurrencies • Mobile Security (OWASP) • Cryptography • H
 ---
 
 ### 🌟 Key Achievements & Skills
-- 5+ years in mobile development, 10+ years in IT  
+- 5+ years in mobile development, 15+ years in IT  
 - Deep expertise in **secure mobile & crypto applications**  
 - Experience with **Flutter, Rust, Native Core**, and **AI/LLM tooling**
 - Implemented **HD Wallets / Key Management**, **Secure Storage** (Secure Enclave iOS/macOS, TPM Android/Windows), and **MFA systems**
