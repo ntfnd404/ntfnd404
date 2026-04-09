@@ -8,11 +8,6 @@ I build secure and scalable applications with a focus on:
 
 ---
 
-#### Tech Stack
-Blockchain / Cryptocurrencies • Mobile Security (OWASP) • Cryptography • HD Wallets / Key Management • Native Plugins • AI
-
----
-
 ### 🛠 Technologies & Tools
 
 <p align="center">
@@ -24,14 +19,3 @@ Blockchain / Cryptocurrencies • Mobile Security (OWASP) • Cryptography • H
   <img src="https://img.shields.io/badge/Security-%23FF0000.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20%2F%20LLM-%23FF4500.svg?style=for-the-badge" />
 </p>
-
----
-
-### 🌟 Key Achievements & Skills
-- 5+ years in mobile development, 15+ years in IT  
-- Deep expertise in **secure mobile & crypto applications**  
-- Experience with **Flutter, Rust, Native Core**, and **AI/LLM tooling**
-- Implemented **HD Wallets / Key Management**, **Secure Storage** (Secure Enclave iOS/macOS, TPM Android/Windows), and **MFA systems**
-- Developed **Rust Core Codegen** for wallet logic and high-performance secure modules, generating upper-level Dart integration  
-- Strong ownership: I drive features from idea to delivery  
-- Focus on security, maintainable architecture, and cross-platform development
