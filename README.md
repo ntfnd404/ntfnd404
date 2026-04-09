@@ -1,10 +1,10 @@
 ### 🔐 Flutter Software Engineer | Crypto • Security • AI
 
 I build secure and scalable applications with a focus on:
-	•	crypto & blockchain applications
-	•	mobile security
-	•	Flutter plugins & native integrations
-	•	AI-assisted development workflows 
+- crypto & blockchain applications
+- mobile security
+- Flutter plugins & native integrations
+- AI-assisted development workflows 
 
 ---
 
